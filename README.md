@@ -1,5 +1,5 @@
 # Citas Medicas
-## Loguin y registarse
+## Loguin y registarse realizados en kotlin
 
 
 App para el desarrollo de habilidad en codigo
